@@ -8,6 +8,7 @@ The chatbot's responses are based on data scraped from the FSTT website [(FSTT W
 
 ## Technologies Used
 
+- Data Scrapping : Scrappy
 - Frontend: Angular, Bootstrap
 - Backend: FastAPI, Pydantic, Uvicorn
 - Authentication : JWT (JSON Web Tokens)
@@ -23,6 +24,7 @@ The chatbot's responses are based on data scraped from the FSTT website [(FSTT W
 
 - Landing Page: Users can sign up or sign in.
 - Chat Interface: Accessible after logging in, where users can interact with the chatbot and view their conversation history.
+- Conversation History: Implement a feature for users to view the history of their conversations.
 
 ### Backend (Express.js)
 - User Authentication: Manages sign-up, sign-in, and JWT-based authentication.
